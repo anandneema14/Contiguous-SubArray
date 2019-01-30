@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contiguous-SubArray", "Contiguous-SubArray\Contiguous-SubArray.csproj", "{FB6EA669-F998-4719-8DDE-08A4BAF112B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6EA669-F998-4719-8DDE-08A4BAF112B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6EA669-F998-4719-8DDE-08A4BAF112B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6EA669-F998-4719-8DDE-08A4BAF112B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6EA669-F998-4719-8DDE-08A4BAF112B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B7F326-8DD9-4544-8956-F6BA8367C02B}
+	EndGlobalSection
+EndGlobal
